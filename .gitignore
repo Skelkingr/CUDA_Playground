@@ -51,8 +51,5 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# Visual Studio
-.vs/
-*.sln
-*.vcxproj
-*.vcxproj.*
+# VS Code
+.vscode/
